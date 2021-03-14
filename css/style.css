@@ -136,6 +136,7 @@ div.glass-card p {
   top: 0;
   left: 0;
   transform: translateX(-30%, -30%) rotate(45deg);
+  z-index: 400;
 }
 
 .pic2 {

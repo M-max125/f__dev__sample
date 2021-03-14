@@ -39,8 +39,8 @@
                 </div>
                
             </div>
-            <div class="card" data-tilt data-tilt-scale="1.1" data-tilt-full-page-listening>
-                <div class="glass-card">
+            <div class="card" data-tilt data-tilt-scale="1.1">
+                <div class="glass-card" >
                     <h2>In and out. Ideas .</h2>
                     <div class="g-name">
                         <img src="images/white-house.png" alt="villa">
