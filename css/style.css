@@ -1501,7 +1501,7 @@ canvas {
 /* Media query */
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .pic2 img {
-    width: 5rem;
+    width: 3rem;
   }
   .g-name img {
     width: 300px;
@@ -1599,7 +1599,7 @@ canvas {
     line-height: 107px;
   }
   .pic2 img {
-    width: 6rem;
+    width: 3rem;
   }
   .image {
     right: 5%;
