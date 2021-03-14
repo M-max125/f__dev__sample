@@ -1502,6 +1502,7 @@ canvas {
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .pic2 img {
     width: 3rem;
+    height: 3rem;
   }
   .g-name img {
     width: 300px;
@@ -1600,6 +1601,7 @@ canvas {
   }
   .pic2 img {
     width: 3rem;
+    height: 3rem;
   }
   .image {
     right: 5%;
