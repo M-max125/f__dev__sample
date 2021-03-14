@@ -32,6 +32,23 @@ var demos = [];
 
 var cloudhouse = {
   one : {
+    bg: " https://images.unsplash.com/photo-1513519245088-0e12902e5a38?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
+    bm: "none" 
+  },
+  two : {
+    bg: "images/couple.jpg",
+    bm: "multiply" 
+  },
+  three : {
+    bg: "images/couple-rm.png",
+    bm: "none" 
+  }
+}
+demos.push(cloudhouse);
+
+
+var vision = {
+  one : {
     bg: "https://wallpaperaccess.com/full/1218225.jpg",
     bm: "none" 
   },
@@ -41,23 +58,6 @@ var cloudhouse = {
   },
   three : {
     bg: "images/rm-girls.png",
-    bm: "none" 
-  }
-}
-demos.push(cloudhouse);
-
-
-var vision = {
-  one : {
-    bg: "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80",
-    bm: "none" 
-  },
-  two : {
-    bg: "images/couple.jpg",
-    bm: "multiply" 
-  },
-  three : {
-    bg: "images/couple-rm.png",
     bm: "none" 
   }
 }
