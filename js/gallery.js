@@ -36,11 +36,11 @@ var cloudhouse = {
     bm: "none" 
   },
   two : {
-    bg: "images/man.jpg",
+    bg: "images/girls.jpg",
     bm: "multiply" 
   },
   three : {
-    bg: "images/rm-man.png",
+    bg: "images/rm-girls.png",
     bm: "none" 
   }
 }
