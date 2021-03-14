@@ -19,10 +19,7 @@
 </head>
 
 <body>
-    <!-- <div id="loader">
-        <img src="images/rainbow-circle.gif" alt="gif">
-        <h1 id="title">Loading...</h1>
-    </div> -->
+  
 <!--Section one-->
     <section id="one">
 
@@ -39,7 +36,7 @@
                 </div>
                
             </div>
-            <div class="card" data-tilt data-tilt-scale="1.1">
+            <div class="card">
                 <div class="glass-card" >
                     <h2>In and out. Ideas .</h2>
                     <div class="g-name">

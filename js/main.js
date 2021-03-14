@@ -1,10 +1,10 @@
 
 
-VanillaTilt.init(document.querySelector('.card'), {
+// VanillaTilt.init(document.querySelector('.card'), {
    
-    max: 25,
-    speed: 500
-});
+//     max: 25,
+//     speed: 500
+// });
 
 var tl = gsap.timeline();
 
