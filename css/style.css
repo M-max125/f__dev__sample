@@ -966,6 +966,7 @@ canvas {
   padding: 10px;
   font-weight: 800;
   border-radius: 12px;
+  
 }
 
 
@@ -1656,6 +1657,9 @@ canvas {
   .g-name img {
     width: 120px;
   }
+  .pic1{
+    left: -15%;
+  }
   div.glass-card {
     width: 10rem;
     height: 10rem;
@@ -1666,7 +1670,7 @@ canvas {
   }
   div.text h1 {
     font-size: 0.9rem;
-    line-height: 30px;
+    line-height: 20px;
   }
   div.glass-card h2 {
     font-size: 0.9rem;
@@ -1712,7 +1716,10 @@ canvas {
 
   .image {
     top: 66%;
-    right: 0%;
+    right: 8%;
+  }
+  .image img{
+    width: 320px;
   }
 
   .heading {
@@ -1721,7 +1728,7 @@ canvas {
 
   .preload ul li {
     margin: 0;
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .desc p {
